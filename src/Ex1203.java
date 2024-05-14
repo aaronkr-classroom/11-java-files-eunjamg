@@ -22,7 +22,7 @@ public class Ex1203 {
 			}
 			
 			fos.close();
-			System.out.println("Success to write file!");
+			System.out.println("n(\"n(\"파일 쓰기 성공!");
 			
 		} 
 		catch(Exception e) {

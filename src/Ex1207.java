@@ -19,7 +19,7 @@ public class Ex1207 {
 			}
 			
 			fr.close();
-			System.out.println("Success to read file!");
+			System.out.println("파일 읽기에 성공했습니다!");
 		}
 		catch(Exception e) {
 			System.out.println(e);
